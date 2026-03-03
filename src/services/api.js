@@ -1,6 +1,6 @@
 // src/services/api.js
 
-const API_BASE = 'http://localhost/coursera/okara/mini-ats/api';
+const API_BASE = 'https://vps-ats.bfyskc.easypanel.host/tr/api/';
 
 export const postular = async (datos) => {
     try {
