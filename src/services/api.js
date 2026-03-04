@@ -1,6 +1,6 @@
 // src/services/api.js
 
-const API_BASE = 'https://vps-ats.bfyskc.easypanel.host/tr/api/';
+const API_BASE = 'https://okara-ats.duckdns.org/tr/api';
 
 export const postular = async (datos) => {
     try {
